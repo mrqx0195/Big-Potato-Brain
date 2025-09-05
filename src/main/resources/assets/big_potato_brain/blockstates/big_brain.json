@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "big_potato_brain:block/big_brain",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "big_potato_brain:block/big_brain"
+    },
+    "facing=south": {
+      "model": "big_potato_brain:block/big_brain",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "big_potato_brain:block/big_brain",
+      "y": 270
+    }
+  }
+}

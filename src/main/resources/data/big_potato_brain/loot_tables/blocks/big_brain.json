@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "big_potato_brain:big_brain"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "big_potato_brain:blocks/big_brain"
+}

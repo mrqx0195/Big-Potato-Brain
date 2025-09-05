@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "J": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "S": {
+      "item": "minecraft:zombie_head"
+    }
+  },
+  "pattern": [
+    "JJJ",
+    "JSJ",
+    "JJJ"
+  ],
+  "result": {
+    "item": "big_potato_brain:big_brain"
+  },
+  "show_notification": true
+}

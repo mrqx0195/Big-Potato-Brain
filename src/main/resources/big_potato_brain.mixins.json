@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "mixins": [
+    "MixinExperienceOrb"
+  ],
+  "package": "net.mrqx.potato.brain.mixin",
+  "refmap": "big_potato_brain.refmap.json",
+  "required": true
+}
